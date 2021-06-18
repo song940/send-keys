@@ -1,0 +1,25 @@
+{
+  "name": "@song940/send-keys",
+  "version": "0.0.1",
+  "description": "Simulate Send Keys to System Events (only macOS)",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/send-keys.git"
+  },
+  "author": "Lsong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/song940/send-keys/issues"
+  },
+  "homepage": "https://github.com/song940/send-keys#readme",
+  "keywords": [
+    "events"
+  ]
+}
